@@ -14,6 +14,14 @@ monitors work today, which should work, and how to find out about yours.
 "Should work" means the monitor uses a protocol Open Cuff already speaks, but nobody has confirmed it with that model.
 If yours works (or doesn't), please say so in an issue, it helps the next person.
 
+> **No warranty.** This list is a best effort and some of it is reported by other users. A model marked "Should work"
+> or "Untested" may not work, or may behave differently. Check your own monitor's screen against what the app shows.
+>
+> **Your cuff's memory.** Open Cuff only reads from a monitor and never sends the command that clears its memory.
+> Some monitors delete their stored readings after any successful download, whatever app does it, and some apps
+> (including other tools) clear them for you. If you have readings on a monitor you haven't backed up, keep a copy
+> before trying a new app or a monitor that isn't marked Tested.
+
 ## Full device list
 
 [devices.csv](devices.csv) lists about 390 Bluetooth health devices (blood pressure monitors first, then pulse

@@ -82,6 +82,13 @@ log with no readings, names, addresses or tokens in it. Or open an issue here.
 
 This software only copies numbers the monitor has already measured. Check readings against the monitor's own screen, and follow your clinician's advice. It is not a medical device, it does not diagnose anything, and the NHS home check and trend notes are information only, not medical advice.
 
+The app gives information, not recommendations. It shows your readings against published guideline ranges so you can
+see them and share them with your doctor, and it leaves decisions to you and your clinician.
+
+**Your cuff's memory:** Open Cuff only reads from the cuff and never clears it. Some monitors delete readings after any
+download, so keep a copy of anything you haven't backed up before trying a monitor that isn't marked Tested in
+[docs/compatible-devices.md](docs/compatible-devices.md).
+
 ## Independent project
 
 Open Cuff is an unofficial, independent project. It is not affiliated with, endorsed by or sponsored by MedM, OxiPro, Shenzhen AOJ Medical, Viatom, Lepu or any other device maker or app. All product names and trademarks belong to their owners and are used only to say which devices this works with.
