@@ -1,0 +1,17 @@
+{
+  "domain": "bp2_ble",
+  "name": "BP2 Blood Pressure Monitor",
+  "bluetooth": [
+    {"local_name": "BP2*", "connectable": true},
+    {"local_name": "OxiPro BP2*", "connectable": true},
+    {"service_uuid": "14839ac4-7d7e-415c-9a42-167340cf2339", "connectable": true}
+  ],
+  "codeowners": ["@Domocn"],
+  "config_flow": true,
+  "dependencies": ["bluetooth_adapters"],
+  "documentation": "https://github.com/Domocn/bp2-ble",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/Domocn/bp2-ble/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}

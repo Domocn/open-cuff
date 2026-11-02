@@ -1,0 +1,6 @@
+# Blank issues stay on: the app's "Report on GitHub" button opens a blank issue with the details and problem log filled in.
+blank_issues_enabled: true
+contact_links:
+  - name: Which monitors work?
+    url: https://github.com/Domocn/open-cuff/blob/main/docs/compatible-devices.md
+    about: Check the list, and how to test your cuff with nRF Connect, before asking.

@@ -1,0 +1,392 @@
+device_type,brand,model,connection,open_cuff
+Blood pressure,OxiPro,BP2,Bluetooth LE,Tested
+Blood pressure,AOJMedical,blood pressure monitors (AOJ-33A family),Bluetooth LE,Should work (AOJ protocol)
+Blood pressure,AND,UA1200BLE,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,AND,UA651,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,AND,UA651BLE,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,AND,UA656,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,AND,UA656BLE,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,AND,UA767,Classic Bluetooth or USB,"Not yet, check with a Bluetooth explorer"
+Blood pressure,AND,UA770BLE,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,AndesFit,BPM,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,AndesFit,BPMWithHistory,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,AndesFit,MSA100,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,AndesFit,WS,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Andon,BPM,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Andon,KD5810BT,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,AViTA,BPM65,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Beurer,BPM,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Beurer,BPM BigEndianPulse,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Beurer,BPM BigEndianPulseUserFlagFix,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Beurer,BPM FeaturesFix,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Bioland,BPM,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Cofoe,BPM,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Contec,ABPM50,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,ContecABPM50,ContecABPM50,Classic Bluetooth or USB,"Not yet, check with a Bluetooth explorer"
+Blood pressure,emkaMEDICAL,BPM,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Famidoc,BPM,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Finicare,BPM,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,HealthLife,BPM,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,IdealLife,BPM0001,Classic Bluetooth or USB,"Not yet, check with a Bluetooth explorer"
+Blood pressure,IMDK,A7,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Jamr,BPM,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Omron,HEM9200T,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,OregonScientific,BPU321,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Philips,BP,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Pyle,PHBPB20,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,QardioARM,BPM,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Renesas,HKBloodPressure,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Rossmax,BPM,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Rossmax,X5,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Rossmax,X5 2,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Rossmax,X5 BT,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Sejoy,BPM,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Sejoy,BPM AFIB,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,SilverCrest,HealthForYou,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,SmartLab,PressureW,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM A6,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM SingleUser,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM TMB995BS,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM WithoutUserShift,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM10140,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM10141,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM10142,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM10143,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM10144,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM10145,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM10146,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM10147,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM10148,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM10149,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM1014A,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM1014B,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM1014BAA,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM1014C,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM1014D,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM10180,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM10181,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM10182,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM10183,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM1018B,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM1490B,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM1491B,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM15800,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM1583B,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM1585B,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM1589B,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM1597B,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM1597BN002,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM1598B,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM1776BS,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM1872B,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM22528,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM802A0,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM802A0AA,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM802A1,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM802A2,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM802A3,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM802A4,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM802A5,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM802A7,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM805A0,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM805A0AA,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM805A1,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM808A0,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM810A0,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM810A1,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPM995A0,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPMBP100,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPMCMBP2,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Transtek,BPMIH511490BT,,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Yonker,BPM,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Yuwell,BPM,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Blood pressure,Zoneyee,BPM,Bluetooth LE,"Not yet, check with a Bluetooth explorer"
+Pulse oximeter,ACCARE,WS20A,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,AndesFit,Oximeter,,Not a blood pressure monitor
+Pulse oximeter,AOJMedical,70B,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Arystone,Oximeter,,Not a blood pressure monitor
+Pulse oximeter,BerryMed,BM1000A,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,BerryMed,Oximeter,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Beurer,PO60,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,BodiMetrics,CheckMe,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,BodiMetrics,CheckMePro,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,BodiMetrics,PerformanceMonitor,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,BodiMetrics,PerformanceMonitor BLE,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,CGS,Kardikom,,Not a blood pressure monitor
+Pulse oximeter,CGSKardikom,CGSKardikom,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,Choicemmed,C208S,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Choicemmed,MD300C,,Not a blood pressure monitor
+Pulse oximeter,Choicemmed,MD300C318T2,,Not a blood pressure monitor
+Pulse oximeter,Choicemmed,MD300CI218,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,ChoiceMMed,MD300W628,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,ChoiceMMed,OX200,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,ChoiceMmedBcoxm,ChoiceMmedBcoxm,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,Choicemmed,MD300C318T2,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,Contec,CMS50DBT BLE,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Contec,CMS50ED,,Not a blood pressure monitor
+Pulse oximeter,Contec,CMS50ED BLE,,Not a blood pressure monitor
+Pulse oximeter,Contec,CMSVESD,,Not a blood pressure monitor
+Pulse oximeter,ContecCMS50E,BLE,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,ContecCMS50E,ContecCMS50E,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,ContecCMSVESD,ContecCMSVESD,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,Cosinuss,Two,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,CreativeIndustry,Prince100NW,,Not a blood pressure monitor
+Pulse oximeter,CreativeIndustryPrince100NW,CreativeIndustryPrince100NW,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,CreativeIndustryPrince100NWv2,CreativeIndustryPrince100NWv2,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,DigiO2,POM101,,Not a blood pressure monitor
+Pulse oximeter,DigiO2POM101,DigiO2POM101,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,Fora,SPO2,,Not a blood pressure monitor
+Pulse oximeter,Jerry,II AA,,Not a blood pressure monitor
+Pulse oximeter,JerryIIAA,JerryIIAA,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,Jstyle,2208A,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Jstyle,2301A,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Jumper,JPD500D,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Kingyield,BPW2,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Landcom,Digipox50,,Not a blood pressure monitor
+Pulse oximeter,LandcomDigipox50,LandcomDigipox50,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,Masimo,MightySat,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Medxing,SpO2,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,MIR,SmartOne,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Nonin,3150,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Nonin,3150 BLE,,Not a blood pressure monitor
+Pulse oximeter,Nonin,3230,,Not a blood pressure monitor
+Pulse oximeter,Nonin,9591,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Nonin3230,Nonin3230,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,NoninOximeter,NoninOximeter,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,Oxiline,Oximeter,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Oxitone,BLE,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Oxitone,Oxitone,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,OxitoneClinicalTrial,OxitoneClinicalTrial,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Perlove,Keyfob,,Not a blood pressure monitor
+Pulse oximeter,PerloveKeyfob,PerloveKeyfob,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Qardio,Oximeter,,Not a blood pressure monitor
+Pulse oximeter,Renesas,HKOximeter,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Rossmax,SA300,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Rossmax,SB210,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Sejoy,Oximeter,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,TaiDoc,8255,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,TaiDoc,8255 BLE,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,TaiDocSpO2,TaiDocSpO2,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,TBPC,oCare100,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Transtek,Oximeter,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Transtek,TeleRPM2023 Oximeter,,Not a blood pressure monitor
+Pulse oximeter,Urion,Watch,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Viatom,FS20F,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Viatom,PC60FW,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Viatom,PulsebitEX,Classic Bluetooth or USB,Not a blood pressure monitor
+Pulse oximeter,Viatom,SleepU,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Vmed,S,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Yonker,80B,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Yonker,Oximeter,Bluetooth LE,Not a blood pressure monitor
+Pulse oximeter,Zondan,A5,,Not a blood pressure monitor
+Pulse oximeter,Zondan,A5 2025,,Not a blood pressure monitor
+Pulse oximeter,ZondanA5,ZondanA5,Classic Bluetooth or USB,Not a blood pressure monitor
+Glucose,Aktivmed,GlucoCheckGold,,Not a blood pressure monitor
+Glucose,AlphaTrack,3,Bluetooth LE,Not a blood pressure monitor
+Glucose,AndesFit,Glucometer,Bluetooth LE,Not a blood pressure monitor
+Glucose,Arkray,GlucocardShineConnex,Bluetooth LE,Not a blood pressure monitor
+Glucose,Betachek,C50,Bluetooth LE,Not a blood pressure monitor
+Glucose,Bioland,Glucometer,Bluetooth LE,Not a blood pressure monitor
+Glucose,CoagSense,PT2,Bluetooth LE,Not a blood pressure monitor
+Glucose,Contour,Next,,Not a blood pressure monitor
+Glucose,Contour,NextGen,Bluetooth LE,Not a blood pressure monitor
+Glucose,Contour,NextOne,Bluetooth LE,Not a blood pressure monitor
+Glucose,Generic,Glucose,,Not a blood pressure monitor
+Glucose,H3,BA400,Bluetooth LE,Not a blood pressure monitor
+Glucose,H3System,BA300,Bluetooth LE,Not a blood pressure monitor
+Glucose,Infopia,GluNEO,Bluetooth LE,Not a blood pressure monitor
+Glucose,Infopia,GluNEO Lite,,Not a blood pressure monitor
+Glucose,iSens,Glucometer,Bluetooth LE,Not a blood pressure monitor
+Glucose,Mio,GlucometerGen1,,Not a blood pressure monitor
+Glucose,Mio,GlucometerGen2,,Not a blood pressure monitor
+Glucose,MovonGlucose,MovonGlucose,Bluetooth LE,Not a blood pressure monitor
+Glucose,MyGluco,Smart,Bluetooth LE,Not a blood pressure monitor
+Glucose,MyGluco,Wireless,,Not a blood pressure monitor
+Glucose,MyGlucoWireless,MyGlucoWireless,Classic Bluetooth or USB,Not a blood pressure monitor
+Glucose,Oxiline,GlucoXPro,,Not a blood pressure monitor
+Glucose,Oxiline,GlucoXSPro,,Not a blood pressure monitor
+Glucose,PIC,GLUCODIARY,,Not a blood pressure monitor
+Glucose,Polytel,GMA3,Bluetooth LE,Not a blood pressure monitor
+Glucose,Pursonic,GlucoseMeter,,Not a blood pressure monitor
+Glucose,Renesas,HKGlucose,Bluetooth LE,Not a blood pressure monitor
+Glucose,Roshe,AccuChekGuide,Bluetooth LE,Not a blood pressure monitor
+Glucose,Roshe,AccuChekGuideMe,,Not a blood pressure monitor
+Glucose,Roshe,AccuChekPerformaConnect,Bluetooth LE,Not a blood pressure monitor
+Glucose,SDBiosensor,GlucoNavii,NFC,Not a blood pressure monitor
+Glucose,SDBiosensor,StandardMentor,Bluetooth LE,Not a blood pressure monitor
+Glucose,Sejoy,Glucometer,Bluetooth LE,Not a blood pressure monitor
+Glucose,SmartLab,GlobalWnG,Bluetooth LE,Not a blood pressure monitor
+Glucose,SmartMeter,Glucometer,,Not a blood pressure monitor
+Glucose,Sybercare,MagicMirror,Bluetooth LE,Not a blood pressure monitor
+Glucose,TechMed,GlucoMaxx Connect,,Not a blood pressure monitor
+Glucose,Transtek,Glucometer,Bluetooth LE,Not a blood pressure monitor
+Glucose,Transtek,GlucometerGen1,,Not a blood pressure monitor
+Glucose,Transtek,GlucometerGen2,Bluetooth LE,Not a blood pressure monitor
+Glucose,Trividia,TrueMetrixAir,Bluetooth LE,Not a blood pressure monitor
+Glucose,TysonBio,Glucometer,Bluetooth LE,Not a blood pressure monitor
+Scale,AND,UC321,Classic Bluetooth or USB,Not a blood pressure monitor
+Scale,AND,UC352,Bluetooth LE,Not a blood pressure monitor
+Scale,AND,UC352BLE,,Not a blood pressure monitor
+Scale,AnD,UC352CEL,,Not a blood pressure monitor
+Scale,AND,UC356BLE,Bluetooth LE,Not a blood pressure monitor
+Scale,BeetsBLU,LS203B,Bluetooth LE,Not a blood pressure monitor
+Scale,Beurer,BodyCompositionScales,Bluetooth LE,Not a blood pressure monitor
+Scale,Beurer,BodyCompositionScalesFFService,Bluetooth LE,Not a blood pressure monitor
+Scale,Beurer,BodyCompositionScalesNoUserEdit,Bluetooth LE,Not a blood pressure monitor
+Scale,Camry,WeightScale,Bluetooth LE,Not a blood pressure monitor
+Scale,Choicemmed,iChoiceScale,,Not a blood pressure monitor
+Scale,ChoicemmediChoiceBLEScales,ChoicemmediChoiceBLEScales,Bluetooth LE,Not a blood pressure monitor
+Scale,ChoicemmediChoiceScales,ChoicemmediChoiceScales,Classic Bluetooth or USB,Not a blood pressure monitor
+Scale,Conmo,WeightScale,Bluetooth LE,Not a blood pressure monitor
+Scale,FitDays,WS,Bluetooth LE,Not a blood pressure monitor
+Scale,Fleming,BodyCompositionScales,Bluetooth LE,Not a blood pressure monitor
+Scale,Generic,Weight Scale,,Not a blood pressure monitor
+Scale,iChoice,WeightScales,Bluetooth LE,Not a blood pressure monitor
+Scale,Lefu,Scales,Bluetooth LE,Not a blood pressure monitor
+Scale,OKOK,BabyScales,Bluetooth LE,Not a blood pressure monitor
+Scale,Omron,HN290T,Bluetooth LE,Not a blood pressure monitor
+Scale,OregonScientific,BW121 WeightProfile,Bluetooth LE,Not a blood pressure monitor
+Scale,Philips,DL87801,Bluetooth LE,Not a blood pressure monitor
+Scale,SmartLab,ScaleFitW,,Not a blood pressure monitor
+Scale,SmartLab,ScaleW,Bluetooth LE,Not a blood pressure monitor
+Scale,Tanita,WeightScaleBLE,Bluetooth LE,Not a blood pressure monitor
+Scale,TanitaWeightScales,TanitaWeightScales,Classic Bluetooth or USB,Not a blood pressure monitor
+Scale,TechMed,BabyScales,,Not a blood pressure monitor
+Scale,TechMed,BabyScales2,Bluetooth LE,Not a blood pressure monitor
+Scale,Transtek,A6WS NoBodyComposition,Bluetooth LE,Not a blood pressure monitor
+Scale,Transtek,WeightScale,Bluetooth LE,Not a blood pressure monitor
+Scale,Transtek,WeightScale02Precision,Bluetooth LE,Not a blood pressure monitor
+Scale,Transtek,WeightScale1525,Bluetooth LE,Not a blood pressure monitor
+Scale,Transtek,WeightScaleShortDisconnect,Bluetooth LE,Not a blood pressure monitor
+Scale,Transtek,WeightScaleWithHarrisBMRAnd02Precision,Bluetooth LE,Not a blood pressure monitor
+Scale,VerustatCellular,WeightScale,,Not a blood pressure monitor
+Scale,Visomat,VisionWeight,,Not a blood pressure monitor
+Scale,Well,WS,Bluetooth LE,Not a blood pressure monitor
+Scale,Xiaomi,BCScale,,Not a blood pressure monitor
+Scale,Xiaomi,NotBCScale2,,Not a blood pressure monitor
+Scale,Xiaomi,Scale2,Bluetooth LE,Not a blood pressure monitor
+Scale,Xiaomi,Scale2 WithoutBC,Bluetooth LE,Not a blood pressure monitor
+Scale,Yonker,WeightScale,Bluetooth LE,Not a blood pressure monitor
+Scale,Zewa,Scale,,Not a blood pressure monitor
+Thermometer,AndesFit,Thermometer,Bluetooth LE,Not a blood pressure monitor
+Thermometer,AViTA,NT16,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Beurer,OT30,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Bioland,Thermometer,Bluetooth LE,Not a blood pressure monitor
+Thermometer,BLT,TemperatureSitter,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Core,Core,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Cosinuss,Degree,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Cosinuss,One,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Famidoc,DigitalThermometer,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Famidoc,InfraredThermometer,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Generic,Thermometer,,Not a blood pressure monitor
+Thermometer,iChoice,T1,Bluetooth LE,Not a blood pressure monitor
+Thermometer,IndieHealth,Thermometer,Bluetooth LE,Not a blood pressure monitor
+Thermometer,JStyle,1810,,Not a blood pressure monitor
+Thermometer,Jstyle,1810G,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Jstyle,1963YH,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Jstyle,JCB004,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Jumper,FR302 WithSpam,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Kinetik,Thermometer,,Not a blood pressure monitor
+Thermometer,Qardio,Temp,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Radiant,THW07N,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Sejoy,DigitalThermometer,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Sejoy,Thermometer,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Shecare,BasalThermometer,,Not a blood pressure monitor
+Thermometer,Sybercare,SCBTM5000,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Taidoc,TD1035,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Waveguider,Thermometer,Classic Bluetooth or USB,Not a blood pressure monitor
+Thermometer,Yonker,Thermometer,Bluetooth LE,Not a blood pressure monitor
+Thermometer,Zewa,Thermometer,Bluetooth LE,Not a blood pressure monitor
+ECG,Aerotel,P128i,Classic Bluetooth or USB,Not a blood pressure monitor
+ECG,AliveECG,AliveECG,Classic Bluetooth or USB,Not a blood pressure monitor
+ECG,Borsam,WecardioSTD,Bluetooth LE,Not a blood pressure monitor
+ECG,Borsam,WecardioUN,Bluetooth LE,Not a blood pressure monitor
+ECG,Choicemmed,MD100P10B,,Not a blood pressure monitor
+ECG,Choicemmed,MD100P10B,Bluetooth LE,Not a blood pressure monitor
+ECG,Contec,PM10,Classic Bluetooth or USB,Not a blood pressure monitor
+ECG,Contec,PM10 BLE,Classic Bluetooth or USB,Not a blood pressure monitor
+ECG,Contec,PM80,,Not a blood pressure monitor
+ECG,Contec,PM80 BLE,,Not a blood pressure monitor
+ECG,ContecPM80,BLE,Classic Bluetooth or USB,Not a blood pressure monitor
+ECG,ContecPM80,ContecPM80,Classic Bluetooth or USB,Not a blood pressure monitor
+ECG,DHeart,ECG,Bluetooth LE,Not a blood pressure monitor
+ECG,DigiO2,ECG101,,Not a blood pressure monitor
+ECG,DigiO2ECG101,DigiO2ECG101,Classic Bluetooth or USB,Not a blood pressure monitor
+ECG,Jstyle,1790,Bluetooth LE,Not a blood pressure monitor
+ECG,Jstyle,2025E,Bluetooth LE,Not a blood pressure monitor
+ECG,Jstyle,J1791,Bluetooth LE,Not a blood pressure monitor
+ECG,Movesense,ECG,Bluetooth LE,Not a blood pressure monitor
+ECG,Neurosoft,ECG,Classic Bluetooth or USB,Not a blood pressure monitor
+ECG,NextSens,ECG,,Not a blood pressure monitor
+ECG,NextSensECG,NextSensECG,Bluetooth LE,Not a blood pressure monitor
+ECG,Pump,EF1800,,Not a blood pressure monitor
+ECG,PumpEF1800,PumpEF1800,Classic Bluetooth or USB,Not a blood pressure monitor
+ECG,SmartECG,ECG,Bluetooth LE,Not a blood pressure monitor
+ECG,SRM,CardioScout,,Not a blood pressure monitor
+ECG,SRM,SRAPlus,Classic Bluetooth or USB,Not a blood pressure monitor
+ECG,SRMCardioScout,SRMCardioScout,Classic Bluetooth or USB,Not a blood pressure monitor
+ECG,STM,BodyGuardian,Classic Bluetooth or USB,Not a blood pressure monitor
+ECG,TaiDoc,TD2202B,Classic Bluetooth or USB,Not a blood pressure monitor
+ECG,TaiDoc,TD2202Bv2,,Not a blood pressure monitor
+ECG,Taidoc,TD2300,Classic Bluetooth or USB,Not a blood pressure monitor
+ECG,TaiDocECG,TaiDocECG,Classic Bluetooth or USB,Not a blood pressure monitor
+ECG,Viatom,BP2,Bluetooth LE,Not a blood pressure monitor
+ECG,Viatom,BP2A,,Not a blood pressure monitor
+ECG,Viatom,BP2W,,Not a blood pressure monitor
+ECG,Viatom,EK2,Bluetooth LE,Not a blood pressure monitor
+ECG,Viatom,ER1,Bluetooth LE,Not a blood pressure monitor
+ECG,Waveguider,ECG,Bluetooth LE,Not a blood pressure monitor
+ECG,Yonker,ECG,Bluetooth LE,Not a blood pressure monitor
+ECG,Yonker,ECGOximeter,Bluetooth LE,Not a blood pressure monitor
+ECG,Zephyr,BioHarness,,Not a blood pressure monitor
+ECG,ZephyrBioHarness,ZephyrBioHarness,Classic Bluetooth or USB,Not a blood pressure monitor
+Heart rate,Cofoe,FetalDoppler,Bluetooth LE,Not a blood pressure monitor
+Heart rate,Contec,SonolineC,Bluetooth LE,Not a blood pressure monitor
+Heart rate,Cycplus,H1,Bluetooth LE,Not a blood pressure monitor
+Heart rate,HEALBE,GoBe3,Bluetooth LE,Not a blood pressure monitor
+Heart rate,Hexoskin,Smart,Bluetooth LE,Not a blood pressure monitor
+Heart rate,Internal,PulseCamera,Classic Bluetooth or USB,Not a blood pressure monitor
+Heart rate,Jumper,JPD100S,Bluetooth LE,Not a blood pressure monitor
+Heart rate,LuckCome,L6C,,Not a blood pressure monitor
+Heart rate,LuckComeL6C,LuckComeL6C,Classic Bluetooth or USB,Not a blood pressure monitor
+Heart rate,Samsung,HRM,Classic Bluetooth or USB,Not a blood pressure monitor
+Heart rate,SmartCare,Tracker,Bluetooth LE,Not a blood pressure monitor
+Heart rate,Transtek,Mambo,,Not a blood pressure monitor
+Heart rate,Transtek,Mambo2,Bluetooth LE,Not a blood pressure monitor
+Heart rate,Transtek,Mambo6,Bluetooth LE,Not a blood pressure monitor
+Heart rate,TranstekMambo,TranstekMambo,Bluetooth LE,Not a blood pressure monitor
+Heart rate,Well,AT,Bluetooth LE,Not a blood pressure monitor
+Heart rate,Zewa,ATv3,Bluetooth LE,Not a blood pressure monitor
+Activity or sleep,3Plus,HR,Bluetooth LE,Not a blood pressure monitor
+Activity or sleep,Aseptika,PUFFClicker2,Bluetooth LE,Not a blood pressure monitor
+Activity or sleep,Fitbit,ActivityTracker,Classic Bluetooth or USB,Not a blood pressure monitor
+Activity or sleep,GoogleFit,StepCounter,Classic Bluetooth or USB,Not a blood pressure monitor
+Activity or sleep,iChoice,A42,Bluetooth LE,Not a blood pressure monitor
+Activity or sleep,iChoice,A50,Bluetooth LE,Not a blood pressure monitor
+Activity or sleep,iChoice,Shark,Bluetooth LE,Not a blood pressure monitor
+Activity or sleep,iChoice,Star,Bluetooth LE,Not a blood pressure monitor
+Activity or sleep,IDT,PE128,Bluetooth LE,Not a blood pressure monitor
+Activity or sleep,Internal,Step Counter,,Not a blood pressure monitor
+Activity or sleep,InternalAccelerometerStepCounter,InternalAccelerometerStepCounter,Classic Bluetooth or USB,Not a blood pressure monitor
+Activity or sleep,InternalStepCounter,InternalStepCounter,Classic Bluetooth or USB,Not a blood pressure monitor
+Activity or sleep,Microlife,WatchBPHome,,Not a blood pressure monitor
+Activity or sleep,MicrolifeWatchBPHome,MicrolifeWatchBPHome,Classic Bluetooth or USB,Not a blood pressure monitor
+Activity or sleep,NeuroSky,BeatBand,Bluetooth LE,Not a blood pressure monitor
+Activity or sleep,Renesas,HKActivity,Bluetooth LE,Not a blood pressure monitor
+Activity or sleep,Transtek,ActivityTracker,Bluetooth LE,Not a blood pressure monitor
+Spirometer,CMIHealth,SpiroLink,Bluetooth LE,Not a blood pressure monitor
+Spirometer,Contec,SP10,,Not a blood pressure monitor
+Spirometer,Contec,SP10W BLE,Classic Bluetooth or USB,Not a blood pressure monitor
+Spirometer,Contec,Spirometer,Bluetooth LE,Not a blood pressure monitor
+Spirometer,ContecSP10,ContecSP10,Classic Bluetooth or USB,Not a blood pressure monitor
+Spirometer,ERT,AM1,Classic Bluetooth or USB,Not a blood pressure monitor
+Spirometer,MIR,SdkDevice,Classic Bluetooth or USB,Not a blood pressure monitor
+Spirometer,MIR,Spirobank,Bluetooth LE,Not a blood pressure monitor
+Spirometer,MIR,Spirobank2,Bluetooth LE,Not a blood pressure monitor
+Spirometer,MIR,SpirobankOxi,,Not a blood pressure monitor
+Spirometer,MIR,Spirodoc,Classic Bluetooth or USB,Not a blood pressure monitor
+Spirometer,MIR,Spirotel,,Not a blood pressure monitor
+Spirometer,MonitoredRX,GoSpiro,Bluetooth LE,Not a blood pressure monitor
+Spirometer,Vitalograph,Asma1,Classic Bluetooth or USB,Not a blood pressure monitor
+Spirometer,Vitalograph,Lung,Classic Bluetooth or USB,Not a blood pressure monitor

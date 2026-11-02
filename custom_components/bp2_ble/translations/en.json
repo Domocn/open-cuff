@@ -1,0 +1,13 @@
+{
+  "config": {
+    "flow_title": "{name}",
+    "step": {
+      "confirm": {"description": "Set up the {name} blood pressure monitor?"},
+      "user": {"title": "Pick the monitor", "data": {"address": "Monitor"}}
+    },
+    "abort": {
+      "already_configured": "This monitor is already set up.",
+      "no_devices_found": "No monitor found. Tap the menu and Start/Stop buttons together to switch its Bluetooth on, keep it near a tablet or Bluetooth adapter, then try again."
+    }
+  }
+}

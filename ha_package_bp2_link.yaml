@@ -1,0 +1,15 @@
+# Example Home Assistant package: do something with every reading the integration (or the Open Cuff app) sends.
+# Copy into /config/packages/ and change the action to suit you.
+automation:
+  - id: bp_reading_notify
+    alias: Blood pressure reading - notify
+    mode: queued
+    triggers:
+      - trigger: event
+        event_type: bp2_ble_reading
+    actions:
+      - action: notify.notify
+        data:
+          title: "Blood pressure {{ trigger.event.data.systolic }}/{{ trigger.event.data.diastolic }}"
+          message: >-
+            Pulse {{ trigger.event.data.pulse }} at {{ as_datetime(trigger.event.data.time).strftime('%H:%M') }}{{ ', irregular heartbeat' if trigger.event.data.irregular else '' }}

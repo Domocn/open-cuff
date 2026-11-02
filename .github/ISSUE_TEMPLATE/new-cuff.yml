@@ -1,0 +1,68 @@
+name: Support my cuff
+description: Ask for a blood pressure monitor to be added, or tell us one works
+title: "Cuff: <brand and model>"
+labels: ["new device"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping add a monitor. The free **nRF Connect** app (Android or iOS) shows how a cuff talks over
+        Bluetooth. The steps are in [docs/compatible-devices.md](../blob/main/docs/compatible-devices.md).
+
+        **Only read, never write.** Don't tap the up-arrow (write) buttons in nRF Connect: sending the wrong bytes can
+        clear a cuff's memory. Nothing below needs them.
+
+        Please don't share real readings you'd rather keep private. Made-up numbers are fine for the test reading.
+  - type: input
+    id: cuff
+    attributes:
+      label: Brand and model
+      description: As printed on the cuff or its box.
+      placeholder: e.g. Beurer BM 54
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Bluetooth name
+      description: nRF Connect > Scanner. Switch the cuff's Bluetooth on (take a reading or press its Bluetooth button) and note the name it shows.
+      placeholder: e.g. BM54
+    validations:
+      required: true
+  - type: textarea
+    id: services
+    attributes:
+      label: Service UUIDs it advertises
+      description: Tap the cuff's row in the Scanner tab to see them. Look for FFE0 (AOJ, already supported), 1810 (standard Blood Pressure) or anything else.
+      placeholder: |
+        0x1810 Blood Pressure
+        0x180A Device Information
+    validations:
+      required: true
+  - type: textarea
+    id: gatt
+    attributes:
+      label: Services and characteristics after connecting
+      description: Tap Connect while the cuff's Bluetooth is on and attach a screenshot of the list (each characteristic shows READ, WRITE, NOTIFY or INDICATE).
+  - type: textarea
+    id: log
+    attributes:
+      label: Log of one reading
+      description: |
+        Standard 1810 cuffs: under Blood Pressure, turn on indications for Blood Pressure Measurement (2A35) with the triple-arrow button, then take a reading.
+        Other cuffs: turn on notifications for each NOTIFY characteristic, then take a reading or sync.
+        Then menu > Log > Share, and attach the file. Tell us the numbers the cuff showed on its screen so the bytes can be matched.
+  - type: textarea
+    id: shown
+    attributes:
+      label: What the cuff showed for that reading
+      placeholder: 124/77, pulse 72, at 08:30
+  - type: dropdown
+    id: works
+    attributes:
+      label: Does Open Cuff already read it?
+      options:
+        - Haven't tried
+        - "Yes, it works"
+        - It finds the cuff but no readings come through
+        - It doesn't find the cuff

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# never commit vendor files
+*.so
+*.apk
+*.apkm
+*.xapk
+app/build/
+app/.dart_tool/

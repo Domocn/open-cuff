@@ -1,0 +1,36 @@
+name: Something went wrong
+description: A bug in the app, the Home Assistant integration or the command line
+title: "Problem: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Easiest:** in the app, go to **More > Report a problem > Report on GitHub**. It fills in your phone model, the
+        app version and the problem log for you. The log never contains readings, names, addresses or tokens.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you were doing, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: input
+    id: cuff
+    attributes:
+      label: Which cuff?
+      placeholder: e.g. OxiPro BP2
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where?
+      options:
+        - Open Cuff app
+        - Home Assistant integration
+        - Command line
+  - type: textarea
+    id: log
+    attributes:
+      label: Problem log
+      description: From More > Report a problem > Copy (or Send the file). For a cuff that won't connect, an nRF Connect log helps too, see docs/compatible-devices.md.
+      render: text
