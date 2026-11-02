@@ -9,6 +9,42 @@ Three parts:
 - `bp2ble/`: a small Python library and command line tool (uses [bleak](https://github.com/hbldh/bleak), so it runs on Windows, macOS, Linux and a Raspberry Pi).
 - `custom_components/bp2_ble/`: a Home Assistant integration. When the monitor switches its Bluetooth on near any Home Assistant Bluetooth adapter or ESPHome Bluetooth proxy, Home Assistant connects, downloads new readings, updates sensors and fires a `bp2_ble_reading` event.
 
+<p>
+<img src="docs/screenshots/1-home.png" width="200" alt="Home: latest reading, averages and a two-week chart">
+<img src="docs/screenshots/2-history.png" width="200" alt="History: chart and every reading">
+<img src="docs/screenshots/3-details.png" width="200" alt="One reading explained, with the zone chart">
+<img src="docs/screenshots/4-medicines.png" width="200" alt="Medicines with blood pressure by dose">
+</p>
+
+<sub>Screenshots use made-up readings.</sub>
+
+## Install the app (Android 8 or newer)
+
+1. On your phone, open the latest [release](https://github.com/Domocn/open-cuff/releases/latest) and download
+   `open-cuff-<version>.apk`.
+2. Open the file. Android asks once to allow installs from your browser or Files app: allow it, then tap Install.
+3. Open Open Cuff and allow **Nearby devices** (and Location on Android 11 or older) so it can find the cuff.
+4. Switch the cuff's Bluetooth on (take a reading, or press its Bluetooth button: the left button on the OxiPro BP2). The app finds
+   it, pairs and copies the readings already stored on it.
+5. Optional, in **More**: background collecting (readings arrive with the app closed), Health Connect (so Samsung
+   Health, Google Fit and others see them), Home Assistant, and the extras under **All features**.
+
+Updates: install the newer APK over the top; your readings stay. Before moving phones, use **Reports > Back up**.
+
+Which cuffs work: [docs/compatible-devices.md](docs/compatible-devices.md). Privacy: [PRIVACY.md](PRIVACY.md).
+
+## Install the Home Assistant integration
+
+**HACS:** HACS > three dots > Custom repositories > add `https://github.com/Domocn/open-cuff` as an **Integration**,
+then install "BP2 Blood Pressure Monitor (Open Cuff)" and restart Home Assistant.
+
+**By hand:** copy `custom_components/bp2_ble` into your Home Assistant `config/custom_components/` folder and restart.
+
+Then switch the cuff's Bluetooth on near any Home Assistant Bluetooth adapter or ESPHome Bluetooth proxy. Home
+Assistant finds it (Settings > Devices & services > Discovered); add it, and each sync updates the sensors and fires a
+`bp2_ble_reading` event you can use in automations. `ha_package_bp2_link.yaml` is an example that sends each reading
+as a notification.
+
 ## Command line
 
 ```

@@ -9,9 +9,9 @@
   "codeowners": ["@Domocn"],
   "config_flow": true,
   "dependencies": ["bluetooth_adapters"],
-  "documentation": "https://github.com/Domocn/bp2-ble",
+  "documentation": "https://github.com/Domocn/open-cuff/blob/main/docs/compatible-devices.md",
   "iot_class": "local_push",
-  "issue_tracker": "https://github.com/Domocn/bp2-ble/issues",
+  "issue_tracker": "https://github.com/Domocn/open-cuff/issues",
   "requirements": [],
-  "version": "0.1.0"
+  "version": "0.1.3"
 }
