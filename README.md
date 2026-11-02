@@ -80,4 +80,16 @@ log with no readings, names, addresses or tokens in it. Or open an issue here.
 
 ## Not a medical device
 
-This software only copies numbers the monitor has already measured. Check readings against the monitor's own screen, and follow your clinician's advice.
+This software only copies numbers the monitor has already measured. Check readings against the monitor's own screen, and follow your clinician's advice. It is not a medical device, it does not diagnose anything, and the NHS home check and trend notes are information only, not medical advice.
+
+## Independent project
+
+Open Cuff is an unofficial, independent project. It is not affiliated with, endorsed by or sponsored by MedM, OxiPro, Shenzhen AOJ Medical, Viatom, Lepu or any other device maker or app. All product names and trademarks belong to their owners and are used only to say which devices this works with.
+
+## How the protocol was worked out
+
+The cuff protocol was worked out for interoperability, so that people can read their own blood pressure data from a monitor they own without a subscription. This repository contains only original code that sends and parses the cuff's Bluetooth messages. It includes no code, assets, firmware, logos or keys from any vendor's app. The app only reads from the cuff and never sends the command that clears its memory. It does not bypass any login, copy protection or access control, and it works only with your own cuff and your own data.
+
+## Use at your own risk
+
+This software is provided as is, under the MIT licence, with no warranty. A manufacturer may change how its cuff talks at any time, which can break syncing. Using it may not be covered by the cuff's warranty or the maker's terms. If a rights holder has a concern about anything here, open an issue and it will be looked at promptly.

@@ -15,6 +15,8 @@
 - Doctor PDF, spreadsheet and CSV reports; backup and restore; import from a MedM Health export.
 - Report a problem: a privacy-safe problem log (no readings, names, addresses or tokens) sent to GitHub, a file or the
   clipboard, plus how to check a new cuff with nRF Connect.
+- About screen and README state that the app is independent, unaffiliated and not a medical device, with
+  use-at-your-own-risk and interoperability notes.
 
 **Home Assistant integration and command line**
 - OxiPro BP2 (AOJ protocol) and Viatom/Lepu BP2 (A5 protocol) read over any Home Assistant Bluetooth adapter or

@@ -138,6 +138,25 @@ class MorePage extends StatelessWidget {
             const SizedBox(height: 10),
             Center(child: TextButton(onPressed: () => Cuff.i.start(), child: const Text('Search for the cuff again'))),
             ListTile(
+              leading: const Icon(Icons.info_outline),
+              title: const Text('About Open Cuff'),
+              subtitle: const Text('Independent, not a medical device'),
+              trailing: const Icon(Icons.chevron_right),
+              onTap: () => showAboutDialog(
+                context: context,
+                applicationName: 'Open Cuff',
+                applicationLegalese: 'MIT licence. Use at your own risk, no warranty.',
+                children: const [
+                  SizedBox(height: 12),
+                  Text('Open Cuff is an unofficial, independent app. It is not affiliated with or endorsed by MedM, OxiPro, '
+                      'Shenzhen AOJ Medical or any other device maker or app. Product names belong to their owners.\n\n'
+                      'It is not a medical device and does not give medical advice. Check readings against your cuff and '
+                      'follow your clinician.\n\n'
+                      'It only reads from your own cuff and never clears its memory.'),
+                ],
+              ),
+            ),
+            ListTile(
               leading: const Icon(Icons.bug_report_outlined),
               title: const Text('Report a problem'),
               subtitle: const Text('See what the app has been doing and send it for a fix'),
